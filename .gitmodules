@@ -1,0 +1,3 @@
+[submodule "ncGA"]
+	path = hw2
+	url = git@github.com:macattackftw/ncGA.git
