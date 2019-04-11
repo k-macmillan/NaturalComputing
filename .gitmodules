@@ -1,3 +1,6 @@
 [submodule "ncGA"]
 	path = hw2
 	url = git@github.com:macattackftw/ncGA.git
+[submodule "swarm_clustering"]
+	path = hw3
+	url = git@github.com:macattackftw/swarm_clustering.git
